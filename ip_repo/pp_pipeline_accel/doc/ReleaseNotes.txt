@@ -1,0 +1,11 @@
+# Copyright (C) 2022, Advanced Micro Devices, Inc. All rights reserved.
+# SPDX-License-Identifier: MIT 
+
+# ==============================================================
+# ==============================================================
+
+Family       : zynquplus
+Device       : xck26
+Package      : -sfvc784
+Speed Grade  : -2LV-c
+Clock Period : 3.333 ns

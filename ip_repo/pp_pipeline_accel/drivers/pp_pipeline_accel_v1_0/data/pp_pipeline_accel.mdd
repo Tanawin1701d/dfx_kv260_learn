@@ -1,0 +1,16 @@
+# Copyright (C) 2022, Advanced Micro Devices, Inc. All rights reserved.
+# SPDX-License-Identifier: MIT 
+#==============================================================
+# ==============================================================
+OPTION psf_version = 2.1;
+
+BEGIN driver pp_pipeline_accel
+
+ OPTION supported_peripherals = (pp_pipeline_accel_v1_0 );
+ OPTION driver_state = ACTIVE;
+ OPTION copyfiles = all;
+ OPTION name = pp_pipeline_accel;
+ OPTION version = 1.0;
+
+END driver
+

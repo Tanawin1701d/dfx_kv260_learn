@@ -1,0 +1,11 @@
+# Copyright (C) 2022, Advanced Micro Devices, Inc. All rights reserved.
+# SPDX-License-Identifier: MIT
+
+# ==============================================================
+# ==============================================================
+
+Family       : zynquplus
+Device       : xczu7ev
+Package      : -ffvc1156
+Speed Grade  : -2-e
+Clock Period : 4.000 ns
