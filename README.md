@@ -63,6 +63,6 @@ sudo g++ -Wall -g -std=c++1y $INC lib/siha.c src/ADD/main.c $LNK -o testADD #Com
 ## So What is the barier?
 
 - at the step 5, you may have seen the building block but it is only for reconfiguration partition, but the static partition is not published by the xilinx. (Only dcp of the system provided)
-![image](report.jpeg)
+![Alt text](report.jpg)
 - If I am required to build custom build reconfiguration for other boards or other feature. I am clealy understand it.
 - the example of the fuctionality such as FFT, Add_sub but the source HLS written in C++ are not provided, but I think it would be good idea if I have it as reference.
