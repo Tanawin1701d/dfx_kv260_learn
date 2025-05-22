@@ -31,7 +31,7 @@ repository
 ### install ubuntu 22.04 on kria
 - I follow this guide [kb260 ubuntu](https://xilinx.github.io/kria-apps-docs/kv260/2022.1/linux_boot/ubuntu_22_04/build/html/docs/intro.html)
 
-### create reconfigurable module
+### create reconfigurable module (on host)
 
 1. ``` cd 2rp_design/create_new_rm ```
 2. open vivado ()
